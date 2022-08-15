@@ -49,6 +49,12 @@ guess6[4].disabled = true;
 document.addEventListener("keyup", function(e){
   let secretWord = words[0].split("");
 
+   if(){
+
+   }else{}
+
+  
+  
       if(guess1[0].value !=="" && guess1[1].value !=="" && guess1[2].value !=="" && guess1[3].value !=="" && guess1[4].value !=="" && e.key =="Enter"){
          
 
