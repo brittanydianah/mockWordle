@@ -49,9 +49,9 @@ guess6[4].disabled = true;
 document.addEventListener("keyup", function(e){
   let secretWord = words[0].split("");
 
-   if(){
+  //  if(){
 
-   }else{}
+  //  }else{}
 
   
   
